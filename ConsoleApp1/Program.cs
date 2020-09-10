@@ -46,6 +46,7 @@ namespace ConsoleApp1
                 Console.WriteLine();
 
             }
+
             public void f()
             {
                 int[] A = new int[10];
